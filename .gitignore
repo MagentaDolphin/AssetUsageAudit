@@ -1,0 +1,26 @@
+# Build output. Regenerated from source by UBT, and large - 231 MB at the time this file was
+# written - so it must never enter a commit.
+Binaries/
+Intermediate/
+Build/
+DerivedDataCache/
+Saved/
+
+# Editor and IDE scratch
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Compiler leftovers, in case anything is ever built in place
+*.obj
+*.pch
+*.dll
+*.lib
+*.exe
+*.pdb
